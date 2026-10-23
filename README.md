@@ -126,5 +126,3 @@ Use the configured application URL to access the API. If Swagger is enabled, ope
 **Nada Abdelrahman**
 
 .NET Backend Developer
-
-Interested in building scalable APIs, writing maintainable code, and improving database performance.
